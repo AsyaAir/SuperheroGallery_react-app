@@ -1,12 +1,14 @@
 import './App.css';
 import Header from './components/Header';
-import CardHero from './components/CardHero';
+import Content from './components/Content';
+import Footer from './components/Footer';
 
 function App() {
     return (
       <div className='App'>
         <Header />
-        <CardHero />
+        <Content />
+        <Footer />
       </div>
   );
 }

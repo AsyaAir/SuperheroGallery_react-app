@@ -1,7 +1,7 @@
 function Header () {
     return (
             <header>
-                <h1>jhgjhgjghbhjb</h1>
+                <h1>Галерея супергероев</h1>
             </header>
     );
 }
